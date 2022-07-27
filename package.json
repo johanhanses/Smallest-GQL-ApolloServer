@@ -1,0 +1,19 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "John Hanses",
+    "email": "johanhanses@gmail.com"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "node demo.js"
+  },
+  "dependencies": {
+    "apollo-server": "^3.10.0",
+    "graphql": "^16.5.0",
+    "graphql-tag": "^2.12.6"
+  },
+  "type": "module"
+}
